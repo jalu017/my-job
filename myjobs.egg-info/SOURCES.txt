@@ -1,0 +1,8 @@
+LICENCE.txt
+MANIFEST.in
+README.txt
+setup.py
+myjobs.egg-info/PKG-INFO
+myjobs.egg-info/SOURCES.txt
+myjobs.egg-info/dependency_links.txt
+myjobs.egg-info/top_level.txt
